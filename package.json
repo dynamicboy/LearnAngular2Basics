@@ -1,11 +1,11 @@
 {
-  "name": "AngularJS2",
+  "name": "LearnAngularJS2",
   "version": "1.0.0",
-  "author": "Ray Villalobos",
-  "description": "This project is the repository for my course Up and Running with AngularJS2 course on Lynda.com",
+  "author": "dynamicman",
+  "description": "This project is the repository for learning AngularJS2 course on Lynda.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/planetoftheweb/angular2.git"
+    "url": "https://github.com/dynamicboy/LearnAngular2Basics.git"
   },
   "devDependencies": {
     "angular2": "2.0.0-beta.2",
